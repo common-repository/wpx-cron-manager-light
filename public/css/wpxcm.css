@@ -1,0 +1,20 @@
+/**
+ * Less sample file.
+ *
+ * You can keep a bound between css class and plugin name/namespace.
+ * To do this, you have to use the right naming for the css id and class.
+ *
+ */
+table.crons td.column-hook_name {
+  font-weight: bold;
+  white-space: nowrap;
+}
+table.crons td.column-execute {
+  width: 50px;
+}
+table.crons td.column-status {
+  width: 50px;
+}
+table.crons .wpxcm-ui-countdown-red {
+  color: #ff7658;
+}
